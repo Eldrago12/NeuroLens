@@ -118,7 +118,7 @@ The project is deployed as a Flask application, packaged in a Docker container, 
 
 ## Deployment
 
-### Docker Container**
+### Docker Container
 
 The project is containerized using Docker. The Dockerfile:
 
