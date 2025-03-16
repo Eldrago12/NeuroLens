@@ -130,7 +130,7 @@ The project is containerized using Docker. The Dockerfile:
 
   - Uses Gunicorn to serve the Flask app on port 5000.
 
-### AWS ECS Fargate**
+### AWS ECS Fargate
 
   - **Task Definition**:
 
